@@ -1,0 +1,69 @@
+﻿@using Online_Commercial_Authomation.Models.Classes
+@model List<Invoice>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<table class="table table-bordered" style="margin-top:20px">
+    <tr>
+        <th>SERIAL NUMBER - ROW NUMBER</th>
+        <th>DATE</th>
+        <th>TIME</th>
+        <th>TOTAL</th>
+        <th>UPDATE</th>
+        <th>DETAILS</th>
+        <th>NEW ITEM</th>
+    </tr>
+
+    @foreach (var invoice in Model)
+    {
+        <tr>
+            <td>@invoice.SerialNumber @invoice.RowNumber</td>
+            <td>@invoice.Date.ToString("dd/MM/yyyy")</td>
+            <td>@invoice.Time</td>
+
+            <td>@invoice.Total ₺</td>
+            <td><a href="/Invoice/InvoiceFind/@invoice.InvoicesId" class="btn  btn-default" style="background-color: #f78fb3;">UPDATE</a></td>
+            <td><a href="/Invoice/InvoiceDetail/@invoice.InvoicesId" class="btn btn-default" style="background-color: #00cec9; color: white;">DETAIL</a></td>
+            <td><a href="/Invoice/InvoiceDetail/@invoice.InvoicesId" class="btn btn-default" style="background-color: #e84393; color: white;">NEW ITEM</a></td>
+
+        </tr>
+    }
+
+</table>
+
+<a href="/Invoice/InvoiceAdd/" class="btn btn-success"><b>ADD NEW INVOICE</b></a>
+<br />
+<br />
+<a href="#" class="btn btn-default" style="background-color: #e84118; color: white;" data-toggle="modal" data-target="#Modal1"><b>POP-UP WINDOW</b></a>
+
+<div class="modal" id="Modal1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Pop-up Dialog Screen</h2>
+            </div>
+            <div class="modal-body">
+                <table class="table table-hover">
+                    <tr>
+                        <td>Serial Number</td>
+                        <td>Row Number</td>
+                        <td>Total</td>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+
+                    <tr>
+                        <td>@item.SerialNumber</td>
+                        <td>@item.RowNumber</td>
+                        <td>@item.Total</td>
+                    </tr>
+                    }
+                </table>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>

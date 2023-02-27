@@ -1,0 +1,180 @@
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.dll.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Antlr3.Runtime.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\EntityFramework.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Newtonsoft.Json.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\PagedList.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\PagedList.Mvc.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\QRCoder.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Helpers.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Mvc.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Optimization.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Razor.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\WebGrease.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\EntityFramework.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Newtonsoft.Json.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\PagedList.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\PagedList.Mvc.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Helpers.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Mvc.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Optimization.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.Razor.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Antlr3.Runtime.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.AssemblyReference.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online_Commercial_Authomation.Migrations.CargoTest.resources
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.GenerateResource.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.CopyComplete
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.AppContext.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Console.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Net.Http.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Commercial-Authomation\Online Commercial Authomation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.AssemblyReference.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online_Commercial_Authomation.Migrations.CargoTest.resources
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.GenerateResource.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.dll.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Online Commercial Authomation.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csc.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\csi.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.AppContext.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Console.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Net.Http.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\vbc.rsp
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Antlr3.Runtime.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\EntityFramework.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Newtonsoft.Json.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\PagedList.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\PagedList.Mvc.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\QRCoder.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Helpers.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Mvc.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Optimization.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Razor.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\WebGrease.dll
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\EntityFramework.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Newtonsoft.Json.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\PagedList.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\PagedList.Mvc.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Helpers.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Mvc.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Optimization.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.Razor.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Antlr3.Runtime.pdb
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ruveyda\Documents\GitHub\Online-Ecommercial-Authomation\Online Commercial Authomation\obj\Debug\Online Commercial Authomation.csproj.CopyComplete

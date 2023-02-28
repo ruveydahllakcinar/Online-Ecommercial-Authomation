@@ -12,7 +12,7 @@ Thanks to this panel;
 
 ## Project Setup
 
-* First you need to install Visual Studio.
+* First you need to [install](https://visualstudio.microsoft.com/tr/).
 
 * You must select the ASP.NET Web Application (.NET Framework) option and select the version. Ins. I developed the project with version 4.6.1.
 

@@ -137,7 +137,3 @@ I have about 20 controllers in my project. I have a custom controller for each v
 <img src="Online Commercial Authomation/readmeimages/login.png" width="600" height="300">
 
 ---
-
-
-
-
